@@ -1,0 +1,24 @@
+Account Number,Post Date,Check,Description,Debit,Credit,Status,Balance
+1234567890,2025-11-01,,Opening Balance, ,5000.00,Cleared,5000.00
+1234567890,2025-11-02,,Paycheck Deposit (Net), ,1500.00,Cleared,6500.00
+1234567890,2025-11-03,,Rent Payment (Apartment),1000.00, ,Cleared,5500.00
+1234567890,2025-11-04,,Electricity Bill (November),150.00, ,Cleared,5350.00
+1234567890,2025-11-05,,Water & Sewer Bill,75.00, ,Cleared,5275.00
+1234567890,2025-11-06,,Internet & Cable (Premium),120.00, ,Cleared,5155.00
+1234567890,2025-11-07,,Groceries (Walmart),300.00, ,Cleared,4855.00
+1234567890,2025-11-08,,Gasoline (Fuel Card),90.00, ,Cleared,4765.00
+1234567890,2025-11-09,,Credit Card Payment (Visa),400.00, ,Cleared,4365.00
+1234567890,2025-11-10,,Gym Membership (Monthly),60.00, ,Cleared,4305.00
+1234567890,2025-11-12,,Car Insurance Premium,200.00, ,Cleared,4105.00
+1234567890,2025-11-13,,Health Insurance Premium (Employer Deducted),250.00, ,Cleared,3855.00
+1234567890,2025-11-14,,Dining Out (Italian Restaurant),85.00, ,Cleared,3770.00
+1234567890,2025-11-15,,Movie & Entertainment (Cinema),40.00, ,Cleared,3730.00
+1234567890,2025-11-16,,Coffee & Snacks (Starbucks),25.00, ,Cleared,3705.00
+1234567890,2025-11-17,,Online Subscription (Netflix),15.00, ,Cleared,3690.00
+1234567890,2025-11-18,,Home Maintenance (HVAC Service),180.00, ,Cleared,3510.00
+1234567890,2025-11-20,,Paycheck Deposit (Net), ,1500.00,Cleared,5010.00
+1234567890,2025-11-21,,Utility Transfer to Savings (Monthly), ,200.00,Cleared,5210.00
+1234567890,2025-11-22,,Miscellaneous Gift (Birthday),50.00, ,Cleared,5160.00
+1234567890,2025-11-25,,Charity Donation (Online),75.00, ,Cleared,5085.00
+1234567890,2025-11-27,,Car Maintenance (Oil Change),60.00, ,Cleared,5025.00
+1234567890,2025-11-29,,Monthly Budget Review (Spreadsheet), ,200.00,Cleared,5225.00

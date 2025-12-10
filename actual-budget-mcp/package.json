@@ -1,0 +1,35 @@
+{
+  "name": "actual-budget-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Actual Budget API - enables AI agents to review and categorize transactions",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "actual-mcp-server": "./bin/actual-mcp-server"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js",
+    "test": "node test/verify-install.js"
+  },
+  "keywords": [
+    "actual-budget",
+    "mcp",
+    "model-context-protocol",
+    "ai-agent",
+    "budget"
+  ],
+  "dependencies": {
+    "@actual-app/api": "^25.11.0",
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.10",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
